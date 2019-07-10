@@ -1,0 +1,21 @@
+{
+    "input_file": "C:\\Users\\BriefCam\\Desktop\\dsconnect\\predict\\images\\download (5).jpg",
+    "probabilities": [
+        {
+            "butterfly": 0.12392014265060425
+        },
+        {
+            "cat": 0.01516140066087246
+        },
+        {
+            "chicken": 0.09391703456640244
+        },
+        {
+            "cow": 0.5840928554534912
+        },
+        {
+            "dog": 0.18290866911411285
+        }
+    ],
+    "label": "cow"
+}
