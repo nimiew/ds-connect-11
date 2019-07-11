@@ -1,9 +1,9 @@
 # Data Science Connect 11
-This is a repository for Data Science Connect 11.
+This is a repository for Data Science Connect 11.\
 The notebook showcases the strengths of transfer learning and data augmentation.
 ## Setup
-Install conda at https://docs.conda.io/projects/conda/en/latest/user-guide/install/
-Clone or download this repository.
+Install conda at https://docs.conda.io/projects/conda/en/latest/user-guide/install/ \
+Clone or download this repository.\
 Navigate to this the project directory in command prompt.
 ```shell
 conda create --name <any_environment_name> --file conda_requirements.txt
