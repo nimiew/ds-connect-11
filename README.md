@@ -18,4 +18,4 @@ jupyter notebook
   5. Enjoy!
 
 ## Colab notebook (More convenient)
-https://colab.research.google.com/drive/1_lEJY9wvJFduz1dRmpbWIwd7nMt6q4nt
+https://colab.research.google.com/drive/1CP668xo1Zsah3EMO3uXZeiAzyb3vSMTq
